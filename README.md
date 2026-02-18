@@ -4,180 +4,77 @@
 	<link rel="stylesheet" type="text/css" href="cv.css">
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
 	<title>
-		cv html
+		cv1
 	</title>
-	<style>
-		body {margin: 0}
-	.conteneur {
-		display:flex;
-		align-items:flex-start;
-		height:700px;
-	}   
-	.gauche { background-color: black;
-
-	}
-
-	.milieu{ background-color: orange;
-		position: absolute;
-		text-align: center;
-		left: -1370px;
-		font-size: 25px;
-		width: 4000px;
-
-
-
-	}
-	.conteneur:nth-child(2) {
-		align-self:flex-end;
-
-	}
-	.conteneur:nth-child(3) {
-		text-align: center;
-		position: relative;
-		left: 25px;
-		
-	}
-	.droit { background-color: green;
-		
-
-
-	}
-
-
-    </style>
 </head>
-<body>
-	<div class="conteneur">
+<body>	
+	<section class="titre">
+		<img src="photoISMAEL.png" alt="ma photo" width="250">
 
-	<div class=" bloc de gauche">
-		<ul style="list-style-type: none;">
-			<br>
-			<br>
-			<br>
+	  <h1> ismael kaba </h1>
+		<h2>ALTERNANT / BTS SIO </h2>
+		
+	
+	</section>
+	<section class=milieu>
+
+		
+
+	<h2> EXPERIENCES PROFESSIONELLES</h2>
+	</section>
+	
+
+
+
+
+
+		<br>
+		<section = class="gauche">
 			
-
-			<li style="color: white;"><img src="photoISMAEL.png" alt="ma photo" width="250" > </li>
-	    
-			<br>
-			<li style="color:white;"><h2 style="color:orange;"> CONTACT </h2></li>
-			<li><span  style="color:white;">0761787844</span></li> 
-			<br>
-			<li><span style="color:white;"> kaba.ismael911@gmail.com</span></li>
-			<br>
-			<li><span style="color:white;">grigny , France</span></li>
-		</ul>
-
-		<ul style="list-style-type: none;">
-			<li style="color:white;"><h2 style="color:orange;"> PROFIL</h2></li>
-			<span style="color:white;"><strong> 2024-2025:</strong> obtention du baccalauréat general<br> avec comme spécialité(mathématique et science<br> numérique de l'informatique) au lycee Gaspard Monge<br> a Savigny sur orge.<br>
-			
-		    </span> 
-		</ul>
-
-		<ul style="list-style-type: none;">
-			<li style="color:white;"><h2 style="color:orange;">LANGUES</h2></li> 
-			<br>
-			<li style="color:white;">Français: <img src="Capture_ecran_2025-11-03_1101123.jpg" alt="barre hight" width="150"></li>
-			<br>
-			<li style="color:white;">Anglais: <img src="moyen.jpg" alt="moyen" width="100"></li>
-			<br>
-			<li style="color:white;">Espagnol: <img src="petit.jpg" alt="petit" width="50">
-		</ul>
-		<ul style="list-style-type: none;">
-			<br>
-			<br>
-
-			<li style="color:white;"> <h2 style="color:orange;">COMPÉTENCES</h2></li>
-			<li> style="color:white;">personne ponctuelle</li>
-			<br>
-			<li style="color:white;">sérieuse et déterminer</li>
-			<br>
-			<li style="color:white;">experience en restauration scolaire</li>
-			<br>
-			<li style="color:white;">gestion du stress</li>
-			<br>
-			<li style="color:white;">excellente comunication</li>
-
-
-		</ul>
-	</div>
-
-
-	<div class="bloc du milieu">
-		<br>
-		<br>
-		<br>
-
-		<h1>ISMAEL KABA</h1><h1 style="color:orange;"></h1>
-		<h2>ALTERNANT / BTS SIO</h2>
-
-	</div>
-
-	<div class="bloc de droite">
-
 		<ul>
 			<br>
 			<br>
 			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
+		
 
-			<br>
 
-			<li style="color:white;"><h2 style="color:black;">EXPERIENCES PROFESSIONELLES</h2></li>
+		
 
-			<h3><strong> ANIMATEUR CENTRE DE LOISIRS</strong></h3>
-			<li style="list-style-type: none;"> <strong>chats botté, Grigny | </strong><span style="color:silver;"> été :2023-2024</span></li>
+			<h3>ANIMATEUR CENTRE DE LOISIRS</h3>
+			<li>chats botté, Grigny | <span> été :2023-2024</span></li>
+		</section>
+		<section class="nani">
 	
-			<ul style="list-style-type:disc;">
-				<br>
+			<ul>
 				<br>
 
-				<li><strong>acceuil des enfants au temps du periscolaire et organisation de jeux calmes</strong></li>
+				<li>acceuil des enfants au temps du periscolaire et organisation de jeux calmes</li>
 				<br>
-				<br>
-					<li ><strong>Organisation et animation d’ateliers et de jeux collectifs</strong></li>
+					<li>Organisation et animation d’ateliers et de jeux collectifs</li>
 					<br>
+					<li>Surveillance et accompagnement des enfants au quotidien</li>
 					<br>
-					<li><strong> Surveillance et accompagnement des enfants au quotidien</strong></li>
-					<br>
-					<br>
-					<li><strong>Développement du sens des responsabilités, de la communication et de la ponctualité </strong></li>
+					<li>Développement du sens des responsabilités, de la communication et de la ponctualité</li>
 			</ul>
+		</section>
 
 		</ul>
-		<ul style="list-style-type:none;"> 
-			<br>
-			<br>
-			<br>
-
-			<li style="color:white;"> <h2 style="color:black;">FORMATION</h2></li>
+		<section class="l1">
+		<ul> 
 			<br>
 			<br>
 
-			<li>  <strong>BAFA:brevet d'aptitude au formation d'animateur  (massy verriere) | <span style="color: silver;">2022-2024</span></li>
-				<br>
+			<li style="list-style-type: none;"> <h2>FORMATION</h2></li>
+			<br>
+
+			<li>BAFA:brevet d'aptitude au formation d'animateur  (massy verriere) | <span>2022-2024</span></li>
 				<br>
 
-				<li> <strong>BAC:Baccalauréat général, lycée Gaspard monge savgingy sur-orge <span> </li>
+				<li> BAC:Baccalauréat général, lycée Gaspard monge savgingy sur-orge  </li>
 		</ul>
 		<br>
-		<br>
-		<ul style="list-style-type:none;">
+		<ul>
 
 	
 		
@@ -185,35 +82,74 @@
 
 
 
-			<li style="color:white;"><h2 style="color:black;">CERTIFICATION</h2></li>
+			<li style="list-style-type:none;"><h2>CERTIFICATION</h2></li>
 
-			<li><strong>certification pix</strong>
-
+			<li>certification pix</li>
+    </section>
+    <section class="l2">
+		</ul>
+		<ul>
+		
+			<br>
+			<li><h2> CONTACT </h2></li>
+	<section class="li1">
+		<ul>
+			<li><span>0761787844</span></li> 
+			<br>
+			<li><span> kaba.ismael911@gmail.com</span></li>
+			<br>
+			<li><span>grigny , France</span></li>
 		</ul>
 
 
+	</section>
+			<li><h2> PROFIL</h2></li>
+		</ul>
+	<section class="li2">
+		<ul>
 
-   
-
+			<li><span> 2024-2025: obtention du baccalauréat general<br> avec comme spécialité(mathématique et science<br> numérique de l'informatique) au lycee Gaspard Monge<br> a Savigny sur orge.<br>
 			
-	</div>
-
+		    </span> </li>
+		</section>
+		</ul>
 	
+
+		<section class="H">
+			<li><h2>LANGUES</h2></li>
+		</section> 
+		<section class="li3">
+			<ul>
+
+			<br>
+			<li>Français: <img src="Capture_ecran_2025-11-03_1101123.jpg" alt="barre hight" width="150"></li>
+			<br>
+			<li>Anglais: <img src="moyen.jpg" alt="moyen" width="100"></li>
+			<br>
+			<li>Espagnol: <img src="petit.jpg" alt="petit" width="50">
+		</ul>
+		</section>
+		<ul>
+			<br>
+			<br>
+
+			<li><h2>COMPÉTENCES</h2></li>
+		<section class="l4">
+			<li>personne ponctuelle</li>
+			<br>
+			<li>sérieuse et déterminer</li>
+			<br>
+			<li>experience en restauration scolaire</li>
+			<br>
+			<li>gestion du stress</li>
+			<br>
+			<li>excellente comunication</li>
+
+
+		</ul>
+	</section>
+
+
 		
-			
-	
-
-	
-
-
-			
-			
-
-
-			
-
-
-
-
 </body>
 </html>
